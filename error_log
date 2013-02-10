@@ -1,0 +1,80 @@
+[13-Oct-2012 12:49:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81 bytes) in /home/lfda/public_html/debt.lfdaforums.org/includes/menu.inc on line 3729
+[13-Oct-2012 20:08:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 22651 bytes) in /home/lfda/public_html/debt.lfdaforums.org/includes/database/database.inc on line 2139
+[13-Oct-2012 20:22:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7680 bytes) in /home/lfda/public_html/debt.lfdaforums.org/sites/all/modules/contrib/ctools/plugins/content_types/node_context/node_comments.inc on line 22
+[21-Oct-2012 19:44:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 523800 bytes) in /home/lfda/public_html/debt.lfdaforums.org/sites/all/modules/contrib/token/token.module on line 381
+[21-Oct-2012 19:45:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 523800 bytes) in /home/lfda/public_html/debt.lfdaforums.org/sites/all/modules/contrib/token/token.module on line 381
+[21-Oct-2012 19:47:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 523800 bytes) in /home/lfda/public_html/debt.lfdaforums.org/sites/all/modules/contrib/token/token.module on line 381
+[21-Oct-2012 19:51:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 523800 bytes) in /home/lfda/public_html/debt.lfdaforums.org/sites/all/modules/contrib/token/token.module on line 381
+[21-Oct-2012 19:54:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 523800 bytes) in /home/lfda/public_html/debt.lfdaforums.org/sites/all/modules/contrib/token/token.module on line 381
+[24-Oct-2012 02:39:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/lfda/public_html/debt.lfdaforums.org/sites/all/themes/omega/omega/templates/comment.tpl.php on line 6
+[25-Oct-2012 02:56:58 UTC] this is a test
+[25-Oct-2012 02:56:59 UTC] this is a test
+[25-Oct-2012 02:57:03 UTC] this is a test
+[25-Oct-2012 02:57:53 UTC] this is a test
+[25-Oct-2012 02:57:57 UTC] this is a test
+[25-Oct-2012 02:58:03 UTC] this is a test
+[25-Oct-2012 02:58:03 UTC] this is a test
+[25-Oct-2012 02:58:27 UTC] this is a test
+[25-Oct-2012 02:58:30 UTC] this is a test
+[25-Oct-2012 02:58:31 UTC] this is a test
+[25-Oct-2012 02:58:33 UTC] this is a test
+[25-Oct-2012 02:58:59 UTC] this is a test
+[25-Oct-2012 02:59:05 UTC] this is a test
+[25-Oct-2012 03:00:59 UTC] this is a test
+[25-Oct-2012 03:01:02 UTC] this is a test
+[25-Oct-2012 03:01:26 UTC] this is a test
+[25-Oct-2012 03:01:33 UTC] this is a test
+[25-Oct-2012 03:01:38 UTC] this is a test
+[25-Oct-2012 03:10:26 UTC] this is a test
+[25-Oct-2012 03:10:28 UTC] this is a test
+[25-Oct-2012 03:10:38 UTC] this is a test
+[25-Oct-2012 03:10:42 UTC] this is a test
+[25-Oct-2012 03:10:43 UTC] this is a test
+[25-Oct-2012 03:11:56 UTC] this is a test
+[25-Oct-2012 03:11:57 UTC] this is a test
+[25-Oct-2012 03:20:42 UTC] this is a test
+[25-Oct-2012 03:20:54 UTC] this is a test
+[25-Oct-2012 03:21:16 UTC] this is a test
+[25-Oct-2012 03:21:23 UTC] this is a test
+[25-Oct-2012 03:24:29 UTC] this is a test
+[25-Oct-2012 03:24:43 UTC] this is a test
+[25-Oct-2012 03:25:18 UTC] this is a test
+[25-Oct-2012 03:25:25 UTC] this is a test
+[25-Oct-2012 03:37:09 UTC] this is a test
+[25-Oct-2012 03:37:27 UTC] this is a test
+[25-Oct-2012 03:37:34 UTC] this is a test
+[25-Oct-2012 03:38:49 UTC] this is a test
+[25-Oct-2012 03:38:53 UTC] this is a test
+[25-Oct-2012 03:39:04 UTC] this is a test
+[25-Oct-2012 03:39:11 UTC] this is a test
+[25-Oct-2012 03:48:03 UTC] this is a test
+[25-Oct-2012 03:48:10 UTC] this is a test
+[25-Oct-2012 03:48:40 UTC] this is a test
+[25-Oct-2012 03:58:50 UTC] this is a test
+[25-Oct-2012 03:58:53 UTC] this is a test
+[25-Oct-2012 03:58:54 UTC] this is a test
+[25-Oct-2012 03:58:58 UTC] this is a test
+[25-Oct-2012 03:59:04 UTC] this is a test
+[25-Oct-2012 03:59:07 UTC] this is a test
+[25-Oct-2012 03:59:46 UTC] this is a test
+[25-Oct-2012 03:59:53 UTC] this is a test
+[25-Oct-2012 04:02:34 UTC] this is a test
+[25-Oct-2012 04:02:40 UTC] this is a test
+[25-Oct-2012 04:02:41 UTC] this is a test
+[25-Oct-2012 04:02:52 UTC] this is a test
+[25-Oct-2012 04:03:05 UTC] this is a test
+[25-Oct-2012 04:03:26 UTC] this is a test
+[25-Oct-2012 04:04:01 UTC] this is a test
+[25-Oct-2012 04:05:46 UTC] this is a test
+[25-Oct-2012 04:05:51 UTC] this is a test
+[25-Oct-2012 04:05:52 UTC] this is a test
+[25-Oct-2012 04:05:55 UTC] this is a test
+[25-Oct-2012 04:06:15 UTC] this is a test
+[25-Oct-2012 04:06:22 UTC] this is a test
+[25-Oct-2012 04:08:19 UTC] this is a test
+[25-Oct-2012 04:08:26 UTC] this is a test
+[25-Oct-2012 04:25:15 UTC] this is a test
+[25-Oct-2012 04:25:17 UTC] this is a test
+[25-Oct-2012 04:25:21 UTC] this is a test
+[25-Oct-2012 12:24:04 UTC] this is a test
+[25-Oct-2012 12:24:27 UTC] this is a test

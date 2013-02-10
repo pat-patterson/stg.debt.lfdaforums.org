@@ -1,0 +1,22 @@
+<?php
+
+
+/**
+ * Implements hook_form_alter().
+ *
+ * 
+ */ 
+function lfda_form_alter(&$form, &$form_state, $form_id) {
+  if ($form_id == "comment_node_post_form") {
+    
+    //dsm($form);
+    
+    $form['subject']['#maxlength'] = 64;
+    $form['subject']['#size'] = 50;   
+  }
+  if ($form_id == "comment_node_discussion_points_form") {
+    //dsm($form);
+    $form['comment_body']['und'][0]['value']['#title'] = 'Thoughts';
+  }
+}
+

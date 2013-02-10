@@ -1,0 +1,3 @@
+name = lfda
+description = lfda glue module
+core = 7.x

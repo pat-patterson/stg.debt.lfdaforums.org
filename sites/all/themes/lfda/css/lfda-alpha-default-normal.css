@@ -1,0 +1,259 @@
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the widescreen layout unless they are overridden by the widescreen styles. */
+ 
+#zone-user-wrapper {
+	background: #173963;
+	padding-top: 10px;
+	height: 40px;
+}
+#zone-branding-wrapper{
+	background: #3A6FB0;
+	height: 71px;
+}
+body.front #zone-postscript-wrapper {
+	background: #33597E;
+	color: #ffffff;
+}
+#zone-menu-wrapper{
+	background: #9C001A;
+	height: 44px;
+}
+#zone-postscript{border-top:1px dotted #ccc;}
+body.front zone-content-wrapper {
+	background: oldlace;
+}
+body.front aside#region-sidebar-second, body.front aside#region-sidebar-first{margin:20px 0;}
+body.page-forum ul.inline li {
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+}
+.site-name, .site-slogan {
+    line-height: 0;
+    margin-bottom: 0;
+}
+body.page-forum div#region-content{
+	background: oldlace;
+	border-radius: 4px;
+}
+body.page-forum div#region-content div.region-inner{
+	padding:15px;
+}
+body.page-node-9 div.field-name-body,body.page-node-10 div.field-name-body,body.page-node-11 div.field-name-body,body.page-node-5 div.field-name-body {
+	background: oldlace;
+	padding: 15px;
+	border-radius: 5px;
+}
+iframe.media-youtube-player {width:460px; height: 300px;}
+/**
+ * Color palette: #FFEFBC (cream), #9C001A (red), #A30234 (rose), #003D7C (blue), #33597E (lighter blue)
+ */
+
+.breadcrumb {display: none;}
+ 
+body {background-color: oldlace;}
+h1, h2, h3, h4, h5, h6 {	
+	font-family: 'muli-regular', arial, sans-serif;
+	font-weight: 100;
+	text-decoration: none;
+}
+p, li, a, dd, dt{
+	font-family: 'muli-regular', arial, sans-serif;
+	font-weight: 100;
+	text-decoration: none;
+}
+a:link, a:visited { text-decoration: none;}
+.form-actions input:hover {background: #9C001A;}
+input[type="submit"] {
+    background: none repeat scroll 0 0 #A30234;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    font-family: 'muli-regular',arial,sans-serif;
+    font-size: 1em;
+    font-weight: 100;
+    padding: 5px 12px;
+    text-shadow: none;
+    width: auto;
+}
+.node-links ul li a, .comment-links ul li a {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #A30234;
+    border-color: #fff;
+    border-image: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font: bold 12px/1.2 'muli-regular',arial,sans-serif;
+    margin: 0 0.5em 0.5em 0;
+    outline: 0 none;
+    overflow: visible;
+    padding: 4px 10px 3px;
+    text-decoration: none;
+    text-shadow: none;
+    text-transform: lowercase;
+    vertical-align: middle;
+    width: auto;
+}
+.node-links ul li a:hover, .comment-links ul li a:hover {
+	background: #A30234;
+}
+/**
+ * Menus
+ *
+ */
+.block-nice-menus {
+	z-index: 105;
+}
+ul.nice-menu, ul.nice-menu ul {
+	z-index: 105;
+}
+ul#nice-menu-1 {
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: 4px;
+
+}
+ul#nice-menu-1 li {
+	border-right: 1px solid #fff;
+	background: none;
+	border: none;
+	float: left;
+	}
+ul#nice-menu-1 li a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px;
+	margin:0 10px;
+	font-family: 'nevis', arial, sans-serif;
+	border-radius: 4px;
+}
+ul#nice-menu-1 li a:hover {
+	color: #fff;
+	text-decoration: none;
+	background: #003D7C;
+}
+ul#nice-menu-1 li a.active {
+	background: #33597E;
+}
+ul#nice-menu-1 li ul {
+	background: #9C001A;
+	border: 0;
+	margin-top: 15px;
+	padding-bottom: 10px;
+}
+div#block-nice-menus-2{
+	margin-right: 10px;
+}
+ul#nice-menu-2 {
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: 4px;
+	font-size: 0.8em;
+
+}
+ul#nice-menu-2 li {
+	border-right: 1px solid #fff;
+	background: none;
+	margin-right: 14px;
+	}
+ul#nice-menu-2 li a {
+    border-radius: 4px 4px 4px 4px;
+    color: #FFFFFF;
+    font-family: 'nevis',arial,sans-serif;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ul#nice-menu-2 li a:hover {
+	color: #fff;
+	text-decoration: none;
+	background: #003D7C;
+}
+ul#nice-menu-2 li a.active {
+	background: #33597E;
+}
+ul#nice-menu-2 li ul {
+	background: #9C001A;
+	border: 0;
+	margin-top: 15px;
+	padding-bottom: 10px;
+}
+
+div#comment-wrapper div nav.links.comment-links, div#comment-wrapper div div nav.links.comment-links {
+	margin-bottom: 20px;
+}
+
+.pager li.pager-first a, .pager li.pager-previous a, .pager li.pager-next a, .pager li.pager-last a {
+	width: 70px;	
+}
+
+.item-list .pager {
+	margin: 0 0 20px 0;
+}
+
+body.page-forum table {
+	width: 60%;
+}
+
+a.forum-links {
+	padding: 5px;	
+}
+
+ul#nice-menu-2 li.menu-path-user{display: none;}
+ul#nice-menu-2 li.menu-path-user-logout{position: absolute;left: 56px;top:-2px;width: 65px; text-align: center;}
+div#block-system-user-menu {float: right; margin-top: 5px;}
+div#block-system-user-menu ul li {list-style: none; padding: 4px; border-radius: 4px; background: #33597E; display: inline; }
+div#block-system-user-menu ul li a {color: #fff;}
+div#block-search-form {float: right;}
+.toboggan-unified #login-links a.lt-active, .toboggan-unified #login-links a.lt-active:hover {background: gray;}
+.toboggan-unified #login-links a {
+    background-color: #9C001A;
+    border: 1px solid #fff;
+    padding: 0.5em;
+    border-radius: 5px;
+    color: #fff;
+}
+.toboggan-unified #login-links a:hover {background:#A30234;}
+/**
+ * Headers
+ */
+
+h1.site-name a, h2.site-name a {color:white;}
+aside#region-sidebar-first h2, div#comments h2{font-family: 'nevis', arial, sans-serif;font-weight: 100;}
+div#region-content h1 {font-size: 2em;font-family: 'nevis', arial, sans-serif;font-weight: 100;}
+
+/**
+ * Blocks
+ */
+div#block-block-1, div#block-block-2 {float:left;margin:0 20px 0 0;}
+div#block-block-4 {
+    border-left: 1px dotted #FFFFFF;
+    color: #FFFFFF;
+    height: 40px;
+    padding-left: 50px;
+    position: absolute;
+    right: 0;
+    top: 2px;
+    width: 50%;
+}
+#block-block-3 {
+	margin-left: 20px;
+}
+#block-block-5 h2 {font-size: 2em;margin-bottom: 0;}
+#block-block-5 img {float:left; width: 180px;margin-right: 20px;}
+article.comment h3 {font-size: 1.6em;margin-bottom: 0px;}
+#block-block-6 {padding:20px;margin-left: 20px;}
+#block-block-6 h2 {font-size: 2em; padding-bottom: 10px;}
+#block-block-6 ol {margin-left:20px;}
